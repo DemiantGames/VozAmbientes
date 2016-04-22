@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{c8501951-0be9-4430-bd4e-a7615f328510}">
+        <property name="assetPath">
+            <value>Vozhuma.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>9.56952380952381</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{15db538c-9165-47c2-b139-64a5d3ad3dbb}</destination>
+        </relationship>
+    </object>
+</objects>

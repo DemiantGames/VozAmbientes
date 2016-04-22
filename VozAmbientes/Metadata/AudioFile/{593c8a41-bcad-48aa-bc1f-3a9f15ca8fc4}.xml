@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{593c8a41-bcad-48aa-bc1f-3a9f15ca8fc4}">
+        <property name="assetPath">
+            <value>Trafico Efecto de Sonido.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>450.69061224489798</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{15db538c-9165-47c2-b139-64a5d3ad3dbb}</destination>
+        </relationship>
+    </object>
+</objects>

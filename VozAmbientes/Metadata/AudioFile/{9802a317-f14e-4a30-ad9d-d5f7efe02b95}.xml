@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{9802a317-f14e-4a30-ad9d-d5f7efe02b95}">
+        <property name="assetPath">
+            <value>Vozhumana.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>6.4613832199546488</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{15db538c-9165-47c2-b139-64a5d3ad3dbb}</destination>
+        </relationship>
+    </object>
+</objects>
